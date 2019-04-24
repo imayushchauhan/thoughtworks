@@ -1,0 +1,7 @@
+{
+  "development": {
+    "appConfig": {
+      "port": 3000
+    }
+  }
+}
